@@ -2,13 +2,13 @@
 
 We want to recommend a song base from a photo.
  
-### Files
+## Files
 
 - `image_scrap.ipynb` collects data from bing image and form our dataset
 
-- `classification.ipynb` runs the model and classify images to different genres
+- `classification.ipynb` runs the model and classify images to different genres (Base on [this tutorial](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb))
 
-### What to do
+## What to do
 
 - Organize the data so that it fits the model.
 
@@ -18,4 +18,4 @@ We want to recommend a song base from a photo.
 
 - Integrate all this into a nice front end.
 
-### Ideas
+## Ideas
